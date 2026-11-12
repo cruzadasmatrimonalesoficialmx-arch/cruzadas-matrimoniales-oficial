@@ -1,0 +1,21 @@
+CRUZADAS MATRIMONIALES OFICIAL
+================================
+
+PUBLICAR GRATIS CON GITHUB PAGES
+
+1. Entra a https://github.com/ y crea una cuenta o inicia sesión.
+2. Crea un repositorio público llamado: cruzadas-matrimoniales-oficial
+3. Sube estos dos archivos a la raíz del repositorio:
+   - index.html
+   - logo-cruzadas.png
+4. En el repositorio abre Settings > Pages.
+5. En "Build and deployment", elige "Deploy from a branch".
+6. Selecciona la rama "main" y la carpeta "/ (root)". Guarda.
+7. GitHub te mostrará la dirección pública de tu página.
+
+Cuando tengas esa dirección, compártela para crear el código QR definitivo.
+El QR debe apuntar a la dirección publicada, no a una dirección provisional.
+
+La página es adaptable a celulares y computadoras. Los botones abren las
+cuentas oficiales en una pestaña nueva. Cada visitante confirma por sí mismo
+su seguimiento o suscripción dentro de cada red social.
